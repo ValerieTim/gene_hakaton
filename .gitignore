@@ -1,0 +1,6 @@
+data/
+results/homology.tsv
+*.zip
+*.pyc
+__pycache__/
+.DS_Store
