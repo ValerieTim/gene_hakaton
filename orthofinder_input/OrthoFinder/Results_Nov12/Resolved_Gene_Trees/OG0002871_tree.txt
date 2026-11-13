@@ -1,0 +1,1 @@
+(salmonella_NP_461633.1:0.735607,(shigella_NP_707256.1:0.00772631,(shigella_NP_708023.1:0,shigella_NP_708403.1:0)n2:5e-09)n1:0.735607)n0;

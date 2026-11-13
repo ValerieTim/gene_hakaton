@@ -1,0 +1,1 @@
+(ecoli_NP_418714.1:0.00533828,((shigella_NP_706442.1:0,shigella_NP_707417.1:0,shigella_NP_708469.1:0,shigella_NP_708650.1:0,shigella_NP_708697.1:0,shigella_NP_708704.1:0,shigella_NP_709064.1:0,shigella_NP_710104.1:0):5e-09,shigella_NP_709361.1:0.010565):0.00533828);

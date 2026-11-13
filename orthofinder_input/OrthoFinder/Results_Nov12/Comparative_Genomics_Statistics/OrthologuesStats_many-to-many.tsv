@@ -1,0 +1,6 @@
+	ecoli	efergusonii	pseudomonas	salmonella	shigella
+ecoli	0.0	9.0	118.0	28.0	39.0
+efergusonii	8.0	0.0	119.0	25.0	9.0
+pseudomonas	161.0	145.0	0.0	148.0	119.0
+salmonella	26.0	27.0	111.0	0.0	52.0
+shigella	160.0	9.0	119.0	66.0	0.0

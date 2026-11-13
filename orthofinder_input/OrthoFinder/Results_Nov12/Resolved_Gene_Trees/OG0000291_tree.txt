@@ -1,0 +1,1 @@
+(shigella_NP_858246.1:0,(shigella_NP_858338.1:0,((shigella_NP_709079.1:0,shigella_NP_858345.1:0)n3:0.00906825,(((shigella_NP_706785.1:0.00945719,shigella_NP_858152.1:0.242751)n6:0.00867419,(shigella_NP_706324.1:0,shigella_NP_709479.1:0)n7:5e-09)n5:5e-09,shigella_NP_707872.1:0.00908977)n4:5e-09)n2:0.397132)n1:0)n0;

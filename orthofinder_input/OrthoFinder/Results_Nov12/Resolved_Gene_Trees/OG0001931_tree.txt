@@ -1,0 +1,1 @@
+(pseudomonas_NP_253230.1:0.44609,((pseudomonas_NP_248730.1:0.00782944,pseudomonas_NP_251153.1:0.0198454)n2:1.28984,(pseudomonas_NP_249383.1:1.14574,pseudomonas_NP_253314.1:1.01219)n3:0.318913)n1:0.44609)n0;

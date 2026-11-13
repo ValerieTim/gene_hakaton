@@ -1,0 +1,5 @@
+0: ecoli.faa
+1: efergusonii.faa
+2: pseudomonas.faa
+3: salmonella.faa
+4: shigella.faa
