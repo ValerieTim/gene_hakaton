@@ -1,1 +1,0 @@
-(shigella_NP_858341.2:0,(ecoli_NP_414894.2:0,ecoli_NP_415921.2:0,ecoli_NP_417338.3:0,ecoli_NP_417516.3:0,ecoli_NP_418692.2:0,ecoli_YP_026163.2:0)1:0);

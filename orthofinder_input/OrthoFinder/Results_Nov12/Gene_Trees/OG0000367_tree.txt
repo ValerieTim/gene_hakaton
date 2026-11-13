@@ -1,1 +1,0 @@
-(pseudomonas_NP_249674.1:0.427528,(salmonella_NP_447008.1:0.355971,((shigella_NP_706459.1:0,shigella_NP_707469.1:0,shigella_NP_707846.1:0,shigella_NP_709266.1:0,shigella_NP_709930.1:0):5e-09,shigella_NP_710067.2:5e-09):0.0687672):0.427528);

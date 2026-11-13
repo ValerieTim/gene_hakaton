@@ -1,1 +1,0 @@
-(salmonella_NP_459927.1:0.142891,(pseudomonas_NP_251108.1:0.332041,(pseudomonas_NP_249896.1:1.25094,pseudomonas_NP_251930.1:0.58963)n2:0.483515)n1:0.142891)n0;

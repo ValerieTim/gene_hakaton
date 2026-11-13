@@ -1,1 +1,0 @@
-(efergusonii_WP_000805581.1:0.637203,(pseudomonas_NP_249395.1:0.8031,(pseudomonas_NP_253173.1:0.923063,(pseudomonas_NP_252852.1:1.03285,(pseudomonas_NP_248893.1:0.278386,pseudomonas_NP_253032.1:0.244455)n4:0.605533)n3:0.165892)n2:0.0852495)n1:0.637203)n0;

@@ -1,1 +1,0 @@
-((salmonella_NP_460341.1:0.144352,salmonella_NP_460342.1:5e-09)n1:0.0184927,((ecoli_NP_416192.1:0,shigella_NP_707576.1:0)n3:5e-09,efergusonii_WP_000843205.1:0.035753)n2:0.0184927)n0;
